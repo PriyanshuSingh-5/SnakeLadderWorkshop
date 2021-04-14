@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SnakeNdLadder/1.0.0": {
+        "runtime": {
+          "SnakeNdLadder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SnakeNdLadder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
