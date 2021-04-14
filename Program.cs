@@ -6,8 +6,7 @@ namespace SnakeNdLadder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Snake Ladder Game");
-            StartPosition.StartPlay();
+            ChecksOptions.OptionToPlay();
         }
     }
 }
